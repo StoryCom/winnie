@@ -1,5 +1,5 @@
 // Définir la date de fin (9 novembre à 8h45)
-const targetDate = new Date('November 9, 2024 08:45:00').getTime();
+const targetDate = new Date('february 4, 2025 08:00:00').getTime();
 
 // Mettre à jour le compteur toutes les secondes
 const countdown = setInterval(function() {
